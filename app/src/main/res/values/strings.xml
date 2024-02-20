@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">verstka3_homw_7_rent_car</string>
+    <string name="rent_a_car">Rent a car</string>
+    <string name="search">Search</string>
+    <string name="bogamy">Bogamy</string>
+    <string name="rent_a_car1">Rent a car</string>
+    <string name="bogamy1">Bogamy</string>
+    <string name="arroww">arroww</string>
+    <string name="car">Car</string>
+    <string name="arroww2">Arroww</string>
+    <string name="bus">Bus</string>
+    <string name="menu">Menu</string>
+    <string name="account">Account</string>
+    <string name="search_raunder_text">Search</string>
+</resources>
